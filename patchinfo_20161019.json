@@ -1,5 +1,5 @@
 {
-  "baseUrl" : "http://cfgsdk.leiting.com/androidpatch/20161019",
+  "baseUrl" : "https://raw.githubusercontent.com/huntwx/FiveChess/master",
   "patches" : [
         {
           "size": "1737", 
