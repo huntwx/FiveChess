@@ -1,0 +1,26 @@
+{
+  "baseUrl" : "https://raw.githubusercontent.com/huntwx/FiveChess/master",
+  "patches" : [
+        { 
+		"size": "1748", 
+		"version": "1", 
+		"type": "0", 
+		"fileName": "patch1015.zip", 
+		"md5": "ffbfc5fccd4223b0d5a3d0cba022f26b" 
+		},
+        { 
+		"size": "12972", 
+		"version": "2", 
+		"type": "0", 
+		"fileName": "patch1016.zip", 
+		"md5": "325867a3d1ae9f791ed1e8a7ec80b696" 
+		},
+        { 
+		"size": "11607", 
+		"version": "3", 
+		"type": "0", 
+		"fileName": "patch1018.zip", 
+		"md5": "ad4e14861a31e84632021712a994c5d5" 
+		} 
+      ]
+}
