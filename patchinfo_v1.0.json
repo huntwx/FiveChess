@@ -9,18 +9,11 @@
 		"md5": "ffbfc5fccd4223b0d5a3d0cba022f26b" 
 		},
         { 
-		"size": "12972", 
+		"size": "21478", 
 		"version": "2", 
 		"type": "0", 
-		"fileName": "patch1016.zip", 
-		"md5": "325867a3d1ae9f791ed1e8a7ec80b696" 
-		},
-        { 
-		"size": "11607", 
-		"version": "3", 
-		"type": "0", 
-		"fileName": "patch1018.zip", 
-		"md5": "ad4e14861a31e84632021712a994c5d5" 
+		"fileName": "patch1028.zip", 
+		"md5": "da0c98bf2cfdf52b0536f12ab0d6c115" 
 		}
       ]
 }
