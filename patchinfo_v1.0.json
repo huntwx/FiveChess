@@ -7,13 +7,6 @@
 	"type": "0", 
 	"fileName": "patch_v1.zip", 
 	"md5": "56e2c2dbbf0cebefcfcd2d85b68f5bc2" 
-	},
-        { 
-		"size": "21478", 
-		"version": "2", 
-		"type": "0", 
-		"fileName": "patch1028.zip", 
-		"md5": "da0c98bf2cfdf52b0536f12ab0d6c115" 
-		}
+	}
       ]
 }
