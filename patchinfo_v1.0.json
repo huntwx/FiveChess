@@ -7,6 +7,13 @@
 	"type": "0", 
 	"fileName": "patch_v1.zip", 
 	"md5": "9f50aecffa32b2b0db6dae373ebfcc73" 
+	},
+	 { 
+	"size": "18780", 
+	"version": "3", 
+	"type": "0", 
+	"fileName": "patch_v3.zip", 
+	"md5": "bff728abd56a5ded4f5de1cf777349a8" 
 	} 
       ]
 }
